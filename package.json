@@ -1,0 +1,15 @@
+{
+	"name" : "NodeTest",
+	"version" : "0.0.1",
+	"description" : "first node test",
+	"author" : "Jirka Dell'Oro-Friedl'",
+	"main" : "NodeTest.js",
+	"scripts" : {
+		"start" : "node NodeTest.js"
+	},
+	"engines" : {
+		"node" : "6.10.3"
+	},
+	"dependencies" : {
+	}
+}
