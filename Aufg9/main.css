@@ -1,0 +1,29 @@
+html {
+	background-color: #AA0000;
+}
+
+#Daten {
+	border: 1px solid;
+	width: 400px;
+}
+
+select, input, option {
+	position: relative;
+	margin-bottom: 1em;
+}
+
+#IceAussuchen {
+	position: absolute;
+	left: 25%;
+	top: 12%;
+	width: 200px;
+}
+
+#Waren {
+	position: fixed;
+	bottom: 0px;
+}
+
+#Achtung {
+	margin-bottom: 2em;
+}
